@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+    
+
+}
+
+h1{
+    color: blue;
+    text-align: center;
+    font-weight: bold;
+}
+ header{
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     background-color:black;
+ }
+ header img{
+     width: 6vw; 
+     margin-right: 10px;
+     padding: 5px;
+ }
+
+ .menu a{
+     text-decoration: none;
+     color:rgb(252, 252, 252);
+     font-size: 15pt;
+     margin-left: 15px;
+
+ }
+ aside{
+     display: flex;
+     align-items:center;
+     justify-content: space-between; 
+ }
+.text h2 .text p{
+     padding: 10px;
+     margin: 20px 10px 0px 10px;
+     color: blue;
+ }
+ .text p{
+     font-family: 'Quicksand', sans-serif;
+
+ }
+ .Memes{
+     font-size: 11pt;
+     font-family: 'Quicksand', sans-serif;
+     line-height: 20px;
+     letter-spacing: 1px;
+     margin-left: 15px;
+     margin-top: 10px;
+
+ }
+
