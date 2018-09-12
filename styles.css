@@ -5,7 +5,7 @@ body{
 }
 
 h1{
-    color: blue;
+    color: black;
     text-align: center;
     font-weight: bold;
 }
@@ -49,6 +49,24 @@ h1{
      letter-spacing: 1px;
      margin-left: 15px;
      margin-top: 10px;
+     justify-content: space-between; 
+     display: flex;
+     flex-direction: column;
 
  }
 
+ .Memes p{
+    margin: 2px 0 0 0;
+ }
+ .imgVideo{
+     display: flex;
+     justify-content: space-evenly;
+     
+    
+}
+
+.rodape{
+    display:flex;
+    justify-content: space-evenly;
+    margin-top: 10px;
+}
